@@ -1,8 +1,8 @@
 # tso-unity-client
 A faster client for the settlers online
-
-**2022-01-26: Thank you all for the 7000 downloads! It's insane!**
-
+Author: DadIlove(European server)
+**2025.7.16:**
+ version:2.0.0
 ## Installation
 - Go to [releases](https://github.com/MrJoachim/tso-unity-client/releases) and download the latest version (you need the installer, not the source zip files).
 - Use the installer to install the program.

@@ -8,7 +8,7 @@ Author: DadIlove(European server)
 **2025.7.16:**
  version:2.0.0
 ## Installation
-- Go to [releases](https://github.com/MrJoachim/tso-unity-client/releases) and download the latest version (you need the installer, not the source zip files).
+- Go to [releases](https://github.com/1924006212/tso-unity-client/releases) and download the latest version (you need the installer, not the source zip files).
 - Use the installer to install the program.
 - Launch the program
 

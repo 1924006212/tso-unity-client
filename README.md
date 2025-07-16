@@ -15,5 +15,5 @@ Author: DadIlove(European server)
 And you are ready to play!
 
 ## Issues/bugs
-If you have a question, bug report or a feature request, you can ask a question here: [issues](https://github.com/MrJoachim/tso-unity-client/issues).
+If you have a question, bug report or a feature request, you can ask a question here:[issues](https://github.com/1924006212/tso-unity-client/issues).
 This client is daily updated, so if you want to have the best player experience: come back in a while and check for updates!
